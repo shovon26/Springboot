@@ -1,0 +1,46 @@
+
+//Input
+{
+  "name" : "Ashik",
+  "age" : 23,
+  "address" : {
+    "street" : "17/D",
+    "city" : "Gazipur"
+  }
+}
+
+
+//Output
+[
+  {
+    "id": 55,
+    "name": "Shahin",
+    "age": 23,
+    "address": {
+      "id": 56,
+      "street": "17/D",
+      "city": "Dhaka"
+    }
+  },
+  {
+    "id": 57,
+    "name": "Ashik",
+    "age": 23,
+    "address": {
+      "id": 58,
+      "street": "17/D",
+      "city": "Gazipur"
+    }
+  },
+  {
+    "id": 59,
+    "name": "Rakib",
+    "age": 22,
+    "address": {
+      "id": 60,
+      "street": "17/D",
+      "city": "Dhaka"
+    }
+  }
+]
+
