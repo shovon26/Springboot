@@ -1,0 +1,37 @@
+//Input(Post Method)
+[
+  {
+    "name": "Masum",
+    "age": 25,
+    "addresses": [
+      {
+        "street": "Rth-JU",
+        "city": "Dhaka"
+      },
+      {
+        "street": "Mawna",
+        "city": "Gazipur"
+      }
+    ]
+  }
+]
+
+// Output (Get Method)
+
+{
+  "userId": 39,
+  "name": "Masum",
+  "age": 25,
+  "addresses": [
+    {
+      "addressId": 40,
+      "street": "Rth-JU",
+      "city": "Dhaka"
+    },
+    {
+      "addressId": 41,
+      "street": "Mawna",
+      "city": "Gazipur"
+    }
+  ]
+}
